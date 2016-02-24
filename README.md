@@ -22,6 +22,6 @@ For more simplicity I have coded the python script with ample documentation.Kind
 
 6.Use indexing or the cell() sheet method with row and column keyword arguments.
 
-Get a Cell object.
+7.Get a Cell object.
 
-Read the Cell object’s value attribute.
+8.Read the Cell object’s value attribute.
